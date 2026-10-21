@@ -1,0 +1,63 @@
+# Project Atheron Tiny - system.prop
+# Copyright (C) 2026 Alphanox (Chukamso)
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# DISCLAIMER: Certain property values below (build fingerprints, model strings,
+# firmware identifiers) are trademarks of Samsung Electronics Co., Ltd. and/or
+# Google LLC. They are included solely to enable platform-level features on
+# compatible hardware and do not imply affiliation with or endorsement by Samsung.
+#
+
+ro.build.display.id= Atheron_Tiny_4_AP3A.240905.015.A2
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.shared=speed
+profiler.launch=false
+profiler.force_disable_err_rpt=1
+profiler.force_disable_ulog=1
+profiler.debugmonitor=false
+profiler.hung.dumpdobugreport=false
+windowsmgr.max_events_per_sec=300
+ro.com.google.cdb.spa1=bsxasm1
+ro.bbt.support.circle2search=true
+ro.media.enc.jpeg.quality=100
+ro.telephony.call_ring.delay=0
+ring.delay=0
+ro.sys.fw.trim_cache_percent=100
+ro.config.nocheckin=1
+ro.surface_flinger.protected_contents=true
+dalvik.vm.checkjni=false
+dalvik.vm.heapstartsize=8m
+dalvik.vm.heapgrowthlimit=192m
+dalvik.vm.heapsize=384m
+dalvik.vm.stack-trace-file=/data/anr/traces.txt
+dalvik.vm.heaptargetutilization=0.75
+ro.config.fha_enable=false
+ro.surface_flinger.supports_background_blur=1
+ro.gfx.angle.supported=true
+debug.hwui.renderer=skiagl
+debug.sf.latch_unsignaled=1
+debug.sf.disable_backpressure=1
+ro.kernel.android.checkjni=0
+ro.secure=0
+persist.sys.purgeable_assets=1
+queue.oem.debug=0
+persist.sys.debug.no_visual_track=1
+debug.jank.tracking=false
+debug.hwui.profile=false
+profiler.force_disable_ulog=1
+persist.sys.jank.tracking=0
+ro.config.jank.enable=false
+ro.build.official.release=
+touch.pressure.scale 0.001
+pointercoord.enable 0
+debug.performance.tuning 1
+ro.max.fling_velocity 15000
+ro.min.fling_velocity 8000
+
+
+
+
+
+
+
+
