@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v3.7-blue.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/Version-v5.0-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-April 24, 2024-green.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-October 23, 2026-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Min Magisk -->
     <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
@@ -15,26 +15,29 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>Project Atheron is a Superuser module, designed with the sole purpose of making the Galaxy a06 [running one ui 7] a usable device . it eliminates lag, overheating extends battery life, all while adding a couple flagship features to enhance your budget One ui experience; however this comes at the cost extreme debloating. If u are the type of person who is satisfied with medium stutter and use various samsung services like samsung account etc... this module is not for you.
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3><h4>Supports magisk, kernel su, Apatch and their forks. Suki SU untested.</h4>
+  <strong>Project Atheron is a performance-boosting Superuser module for the Samsung Galaxy A06 (running One UI 7) that eliminates lag and overheating while improving battery life and adding flagship features.
+
+However, it achieves this through extreme debloating, meaning it removes Samsung services like Samsung Account. It is not recommended for users who don't mind minor stutters or who rely on standard Samsung apps.
+    <h4>Supports magisk, kernel su, Apatch Suki SU untested.</h4>
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
+    <a href="t.me/alphasarchive">
+    Support Group
     </a>
   </h3>
 </div>
 
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+### Key Features of the module
+ Samsung screen recorder 
+ New notification styles
+ Live blur for a06 4g users only [beta]
+ Hi end flagship animations
+ Flagship dolby atmos & Samsung sound equalizer
+ Easy mode 
+ Overheat protection
+ Improved battery life
+ Night dim
+ Screen curtain & a related feature
+ Performance engine tailored for the a06 to eliminate lag and stutter
