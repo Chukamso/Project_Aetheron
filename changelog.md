@@ -79,10 +79,14 @@
 
 ### 5.0 r2
 
-# PERFORMANCE ENGINE OVERHAUL : I have reached the maximum possible performance improvement i can for see in this a06 (4g), reaching a random access read speed of 100mb/s on an a06 without ram buffering or having a 99% performance stability is no joke, also the performance deficit that plagued the 4.x version have been neutralized.
+# PERFORMANCE ENGINE OVERHAUL : I have reached the maximum possible performance improvement i can for see in regards a06 (4g), reaching a random access read speed of 100mb/s on an a06 without ram buffering or having a 99% performance stability is no joke, also the performance deficit/instability that plagued the 4.x version have been neutralized.
 * fixed customise.sh bug where setup init would fail.
 * removed invisible non ascii characters that would cause issues in my scripts - (i have no idea how there got there).
 * polished atheron 5 even further.
+
+### 5.0.1 [BGF]
+* fixed bug where aetheron placed the kernel read proirity in ssg io scheduler too high, causing applications that are reading massive files (1gb+) to misbehave or crash.
+* renamed module from `atheron` to `aetheron` , because somebody pronounced it as "ahh-theron" instead of air-theron so the rename was neccesary to keep things relevant.
 
 
 # LICENSE

@@ -70,7 +70,7 @@ if [ "$STORAGE" = "emmc" ]; then
 
     # Samsung Generic I/O Scheduler tunables
     [ -f "$IO_SCHED/read_expire" ] && echo 100 > "$IO_SCHED/read_expire"
-    [ -f "$IO_SCHED/write_expire" ] && echo 10000 > "$IO_SCHED/write_expire"
+    [ -f "$IO_SCHED/write_expire" ] && echo 2500 > "$IO_SCHED/write_expire"
     [ -f "$IO_SCHED/max_write_starvation" ] &&  echo 6 > "$IO_SCHED/max_write_starvation"
     [ -f "$IO_SCHED/front_merges" ] && echo 0 > "$IO_SCHED/front_merges"
     [ -f "$IO_SCHED/async_write_shallow_depth" ] &&   echo 4 > "$IO_SCHED/async_write_shallow_depth"
@@ -108,8 +108,8 @@ VM="/proc/sys/vm"
 [ -f "$VM/swappiness" ] && echo "120" > "$VM/swappiness"
 [ -f "$VM/vfs_cache_pressure" ] && echo "100" > "$VM/vfs_cache_pressure"
 [ -f "$VM/watermark_scale_factor" ] && echo "70" > "$VM/watermark_scale_factor"
-[ -f "$VM/dirty_background_bytes" ] &&  echo 26214400 > "$VM/dirty_background_bytes"
-[ -f "$VM/dirty_bytes" ] && echo 104857600 > "$VM/dirty_bytes"
+[ -f "$VM/dirty_background_bytes" ] &&  echo "65536000" > "$VM/dirty_background_bytes"
+[ -f "$VM/dirty_bytes" ] && echo "104857600" > "$VM/dirty_bytes"
 
 #sysctl
 sysctl -w vm.stat_interval=10
