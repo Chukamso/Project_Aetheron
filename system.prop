@@ -1,4 +1,4 @@
-# Project Atheron Tiny - system.prop
+# Project Aetheron Tiny - system.prop
 # Copyright (C) 2026 Alphanox (Chukamso)
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
@@ -8,7 +8,7 @@
 # compatible hardware and do not imply affiliation with or endorsement by Samsung.
 #
 
-ro.build.display.id= Atheron_Tiny_4_AP3A.240905.015.A2
+ro.build.display.id= Aetheron_Tiny_4_AP3A.240905.015.A2
 pm.dexopt.bg-dexopt=speed-profile
 pm.dexopt.shared=speed
 profiler.launch=false

@@ -59,8 +59,8 @@ TOUCH_EVENT="/dev/input/event6"
 INPUT_TIMEOUT=10
 TOUCH_TIMEOUT=12
 
-EVENT_FILE="$TMPDIR/atheron_events"
-TIMER_FILE="$TMPDIR/atheron_timer"
+EVENT_FILE="$TMPDIR/Aetheron_events"
+TIMER_FILE="$TMPDIR/Aetheron_timer"
 
 rm -f "$EVENT_FILE" "$TIMER_FILE"
 
@@ -225,7 +225,7 @@ chooseport() {
 
 print_modname() {
   ui_print " - ━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-  ui_print " - ⚙️ Atheron Tiny V5.0.0 setup"
+  ui_print " - ⚙️ Aetheron Tiny V5.0.0 setup"
   ui_print " - ━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 }
 

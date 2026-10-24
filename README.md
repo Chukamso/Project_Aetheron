@@ -1,4 +1,4 @@
-<h1 align="center">Project Atheron</h1>
+<h1 align="center">Project Aetheron</h1>
 
 <div align="center">
   <!-- Version -->
@@ -19,7 +19,7 @@
 <div align="center">
   <strong>Project Aetheron is a performance-boosting Superuser module for the Samsung Galaxy A06 (running One UI 7) that eliminates lag and overheating while improving battery life and adding flagship features.
 
-However, it achieves this through extreme debloating, meaning it removes Samsung services like Samsung Account. It is not recommended for users who don't mind minor stutters or who rely on standard Samsung apps.
+However, it achieves this through many means which include extreme debloating, meaning it removes Samsung services like Samsung Account. It is not recommended for users who don't mind stutters or who rely on standard Samsung apps.
     <h4>Supports magisk, kernel su, Apatch Suki SU untested.</h4>
   <strong>Project Aetheron is a performance-boosting Superuser module for the Samsung Galaxy A06 (running One UI 7) that eliminates lag and overheating while improving battery life and adding flagship features.
 
@@ -31,13 +31,15 @@ However, it achieves this through extreme debloating, meaning it removes Samsung
   <h3>
     <a href="t.me/alphasarchive">
     Support Group
-    <a href="t.me/alphasarchive">
-    Support Group
     </a>
   </h3>
 </div>
 
-### Features
+<h2>
+Features
+<hr>
+</h2>
+
  Samsung screen recorder <br>
  New notification styles <br>
  Live blur for a06 4g users only [beta] <br>

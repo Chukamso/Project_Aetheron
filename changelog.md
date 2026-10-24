@@ -72,7 +72,7 @@
 * new installer menu with emojis
 * Polished the installation menu to a massive extent.
 * You can now control Atheron's install sequence with ur touch screen by tapping or not tapping, useful for old a06 units with fucked buttons.
-* renamed module from "Tiny Atheron" to "Atheron Blitz".
+* renamed module from "Tiny Atheron" to "Aetheron Blitz".
 * removed ability to lower screen resolution of the a06, doesnt look so pleaseant and does not help much in CPU intensive games/rendering.
 * polished buggy features found in 4.9
 
@@ -90,7 +90,7 @@
 
 
 # LICENSE
-* Subject to the special conditions above, this Project Atheron is otherwise distributed under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License.
+* Subject to the special conditions above, this Project Aetheron is otherwise distributed under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License.
 
 
 

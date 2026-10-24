@@ -10,15 +10,15 @@ LOG="/data/local/tmp/A06-EF.log"
 
 sleep 25
 
-echo "Atheron v4.9.3-t by Alphanon" >> "$LOG"
-echo "Atheron v4.9.3-t by Alphanon" >> "$LOG"
+echo "Aetheron v4.9.3-t by Alphanon" >> "$LOG"
+echo "Aetheron v4.9.3-t by Alphanon" >> "$LOG"
 
 echo "Started: $(date)" >> "$LOG"
 echo "" >> "$LOG"
 
 engine_function(){
 #perf_sequence
-echo "[atheron 4.9.3-t log starts here]" >> "$LOG"
+echo "[Aetheron 4.9.3-t log starts here]" >> "$LOG"
 
 # CPU Governors
 P0="/sys/devices/system/cpu/cpufreq/policy0/scaling_governor"
@@ -222,12 +222,12 @@ echo "animation tweak = s" >> "$LOG"
 
 }
 sleep 15
-echo " [atheron 4.9.3-t log >] new phase starting or ending: $(date)" >> "$LOG"
+echo " [Aetheron 4.9.3-t log >] new phase starting or ending: $(date)" >> "$LOG"
 engine_function
   ### kanger protection - alphanon
 
 
-echo " [atheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
-echo " [atheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
-echo " [atheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
-echo " [atheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
+echo " [Aetheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
+echo " [Aetheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
+echo " [Aetheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
+echo " [Aetheron 4.9.3-t log >] Ended: $(date)" >> "$LOG"
