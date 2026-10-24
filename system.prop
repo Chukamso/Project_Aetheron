@@ -49,8 +49,6 @@ persist.sys.jank.tracking=0
 ro.config.jank.enable=false
 ro.build.official.release=
 touch.pressure.scale 0.001
-pointercoord.enable 0
-debug.performance.tuning 1
 ro.max.fling_velocity 15000
 ro.min.fling_velocity 8000
 

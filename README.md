@@ -15,7 +15,7 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>Project Atheron is a performance-boosting Superuser module for the Samsung Galaxy A06 (running One UI 7) that eliminates lag and overheating while improving battery life and adding flagship features.
+  <strong>Project Aetheron is a performance-boosting Superuser module for the Samsung Galaxy A06 (running One UI 7) that eliminates lag and overheating while improving battery life and adding flagship features.
 
 However, it achieves this through extreme debloating, meaning it removes Samsung services like Samsung Account. It is not recommended for users who don't mind minor stutters or who rely on standard Samsung apps.
     <h4>Supports magisk, kernel su, Apatch Suki SU untested.</h4>
@@ -29,15 +29,15 @@ However, it achieves this through extreme debloating, meaning it removes Samsung
   </h3>
 </div>
 
-### Key Features of the module
- Samsung screen recorder 
- New notification styles
- Live blur for a06 4g users only [beta]
- Hi end flagship animations
- Flagship dolby atmos & Samsung sound equalizer
- Easy mode 
- Overheat protection
- Improved battery life
- Night dim
- Screen curtain & a related feature
- Performance engine tailored for the a06 to eliminate lag and stutter
+### Features
+ Samsung screen recorder <br>
+ New notification styles <br>
+ Live blur for a06 4g users only [beta] <br>
+ Hi end flagship animations <br>
+ Flagship dolby atmos & Samsung sound equalizer <br>
+ Easy mode <br>
+ Overheat protection <br>
+ Improved battery life <br>
+ Night dim <br>
+ Screen curtain & a related feature <br>
+ Performance engine tailored for the a06 to eliminate lag and stutter <br>
