@@ -87,6 +87,7 @@
 ### 5.0.1 [BGF]
 * fixed bug where aetheron placed the kernel read proirity in ssg io scheduler too high, causing applications that are reading massive files (1gb+) to misbehave or crash.
 * renamed module from `atheron` to `aetheron` , because somebody pronounced it as "ahh-theron" instead of air-theron so the rename was neccesary to keep things relevant.
+* Started fixes on a screenshot bug where the pop up would not appear after takinga screenshot.
 
 
 # LICENSE
